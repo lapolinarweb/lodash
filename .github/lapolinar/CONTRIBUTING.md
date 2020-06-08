@@ -1,3 +1,4 @@
+"COVID19",
 # :construction: Notice :construction:
 
 Pardon the mess. The `master` branch is in flux while we work on Lodash v5. This
